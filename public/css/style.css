@@ -1,0 +1,41 @@
+*{
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    border: 3px dashed salmon;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(248, 101, 84);
+    font-weight: bold;
+    font-size: 30x;
+    border:2px solid black;
+}
+
+
+
+.parrafoNormal{
+    font-size: 20px;
+    line-height: 27px;
+    background-color: rgb(240, 157, 157);
+}
+.parrafoDistinto{
+  background-color: rgb(162, 109, 211);
+}
+
+ul{
+    font-size: 20px;
+    
+}
+ul li{
+    line-height: 27px;
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(248, 101, 84);
+    border: solid black 2px;
+}
